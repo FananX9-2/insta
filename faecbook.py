@@ -1,0 +1,13 @@
+import os
+os.system ('clear')
+os.system ('cmatrix')
+os.system ('figlet instagrme HK')
+print ("")
+print ("")
+print (" \033[1;32memail \033[1;33m: root !")
+print ("")
+print ("")
+print (" \033[1;32mpasswerd :\033[1;33m root !")
+print ("")
+print ("")
+os.system ('figlet')
